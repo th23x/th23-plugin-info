@@ -97,7 +97,7 @@ Simple: It is not a plugin, just a development support tool, so there is nothing
 
 ## 🤝 Contributors
 
-Feel free to [raise issues](/issues) or [contribute code](/pulls) for improvements via GitHub.
+Feel free to [raise issues](https://github.com/th23x/th23-plugin-info/issues) or [contribute code](https://github.com/th23x/th23-plugin-info/pulls) for improvements via GitHub.
 
 
 ## ©️ License
